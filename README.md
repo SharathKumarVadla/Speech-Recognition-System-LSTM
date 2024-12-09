@@ -31,11 +31,11 @@
 
 This model is run with following parameters
 
-* Adam Optimizer
-* Initial Learning rate – 0.0001
-* Batch Size – 16
-* Early Stopping with patience 4
-* Reduce LR Plateau with a factor of 0.95 with patience 2
+* ```Adam Optimizer ```
+* ```Initial Learning rate – 0.0001```
+* ```Batch Size – 16```
+* ```Early Stopping with patience 4```
+* ```Reduce LR Plateau with a factor of 0.95 with patience 2```
 
 **Results**
 
