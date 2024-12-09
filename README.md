@@ -64,7 +64,7 @@ This model is run with following parameters
 
 **Deployment**
 
-The application has beeen built using streamlit and deployed in the streamlit cloud. The application can be accessed using the below link.
+The application has beeen built using streamlit and deployed in the streamlit cloud. The application can be accessed using the below link.<br>
 *https://speech-recognition-system-prototype.streamlit.app/*
 
 **Conclusion**
